@@ -62,8 +62,6 @@ The project focuses on **clean separation of concerns**: data models, business l
 | Version Control | Git + GitHub |
 | Build Tool | None (plain `javac`) |
 
-> **No external libraries, no Maven, no Gradle, no database.** Runs with just the JDK installed.
-
 ---
 
 ## 🚀 Setup and Run
