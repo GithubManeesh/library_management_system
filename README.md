@@ -151,16 +151,6 @@ library-management-system/
 
 ---
 
-## 👥 Team Member Contributions
-
-> **Note:** This project was completed **individually**.
-
-| Name | Roll Number | Contributions |
-|---|---|---|
-| YOUR FULL NAME | YOUR ROLL NO | Full project design and development — data models (`Book`, `Member`), business logic (`Library`), persistence layer (`FileManager`), console UI (`Main`), testing, documentation |
-
----
-
 ## 🧪 Sample Test Flow
 
 Try this after running the program:
